@@ -1,0 +1,1 @@
+This project was intended to transform and clean the raw data extracted from rents.com.bd to make it usable for further analysis. Jupyter notebook was used as the primary tool for the execution of the project. The included libraries are numpy and pandas.
